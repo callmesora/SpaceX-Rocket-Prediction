@@ -4,6 +4,8 @@
 
 The results of this project are explained in the detailed **power point presentation thats saved as a PDF in this repo.**
 
+**Managed to predict if a rocket would crash with over 80% accuracy**
+
 ## Project Summary
 
 - Data was collected from public SpaceX API and by scrapping SpaceX Wikipedia
@@ -30,6 +32,8 @@ magicSQL
   This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
   Sucessfull Launch
+
+
   ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing\_1.gif)
 
   Failed Launch
